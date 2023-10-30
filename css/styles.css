@@ -1,21 +1,17 @@
 body {
-    width: 1440px;
-    height: 3300px;
-    background: #FFF;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF
 }
 
 .header {
     display: flex;
-    width: 1440px;
-    height: 72px;
     justify-content: center;
     align-items: center;
     flex-shrink: 0;
 }
 
 .header-line-bg {
-    width: 1440px;
-    height: 72px;
     flex-shrink: 0;
     border-bottom: 1px solid #E7E9FC;
     background: #FFF;
@@ -23,7 +19,6 @@ body {
 
 .webstudio-header {
     display: inline-flex;
-    height: 24px;
     align-items: center;
     flex-shrink: 0;
 }
@@ -35,7 +30,6 @@ body {
     line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    width: 44px;
 }
 
 .studio-header {
@@ -45,13 +39,11 @@ body {
     line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    width: 71px;
 }
 
 .nav {
     display: inline-flex;
     align-items: flex-start;
-    gap: 40px;
 }
 
 .nav-list-text {
@@ -65,7 +57,6 @@ body {
 .address-header {
     display: inline-flex;
     align-items: flex-start;
-    gap: 40px;
 }
 
 .contacts-link {
@@ -77,8 +68,6 @@ body {
 }
 
 .dark-bg {
-    width: 1440px;
-    height: 600px;
     flex-shrink: 0;
     background: #2E2F42;
 }
@@ -90,14 +79,12 @@ body {
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 1.12px;
-    width: 496px;
 }
 
 .button {
     display: inline-flex;
     padding: 16px 32px;
     align-items: flex-start;
-    gap: 10px; 
     border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
@@ -112,8 +99,6 @@ body {
 }
 
 .features {
-    width: 1128px;
-    height: 104px;
     flex-shrink: 0;
 }
 
@@ -132,10 +117,8 @@ body {
 
 .features-list-item {
     display: flex;
-    width: 264px;
     flex-direction: column;
     align-items: flex-start;
-    gap: 8px;
 }
 
 .features-list-title {
@@ -144,7 +127,6 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.4px;
-    width: 264px;
 }
 
 .features-list-text {
@@ -153,7 +135,6 @@ body {
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
-    width: 264px;
 }
 
 .light-bg {
@@ -183,7 +164,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 32px;
     border-radius: 0px 0px 4px 4px;
     background: #FFF;
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
@@ -208,8 +188,6 @@ body {
 }
 
 .our-portfolio {
-    width: 1128px;
-    height: 1000px;
     flex-shrink: 0;
 }
 
@@ -224,19 +202,14 @@ body {
 }
 
 .our-portfolio-list {
-    width: 1128px;
-    height: 420px;
     flex-shrink: 0;
 }
 
 .our-portfolio-list-item {
     display: flex;
-    width: 360px;
-    height: 420px;
     padding-bottom: 0px;
     flex-direction: column;
     align-items: flex-start;
-    gap: 32px;
     flex-shrink: 0;
     border: 1px solid #E7E9FC;
     background: #FFF;
@@ -259,21 +232,16 @@ body {
 }
 
 .footer {
-    width: 1440px;
-    height: 312px;
     flex-shrink: 0;
     background: #2E2F42;
 }
 
 .footer-container {
-    width: 264px;
-    height: 112px;
     flex-shrink: 0;
 }
 
 .webstudio-footer {
     display: inline-flex;
-    height: 24px;
     align-items: center;
     flex-shrink: 0;
 }
@@ -286,16 +254,12 @@ body {
     letter-spacing: 0.54px;
     text-transform: uppercase;
     display: flex;
-    width: 44px;
-    height: 21px;
     flex-direction: column;
     justify-content: center;
 }
 
 .studio-footer {
     display: flex;
-    width: 71px;
-    height: 21px;
     flex-direction: column;
     justify-content: center;
     color: #F4F4FD;
@@ -312,5 +276,4 @@ body {
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
-    width: 264px;
 }
