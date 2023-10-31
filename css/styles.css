@@ -21,24 +21,17 @@ body {
     display: inline-flex;
     align-items: center;
     flex-shrink: 0;
-}
-
-.web-header {
-    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    color: #4D5AE5;
 }
 
 .studio-header {
     color: #2E2F42;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
 }
 
 .nav {
@@ -65,6 +58,10 @@ body {
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+
+.contacts-link :hover, :focus {
+    color: #404bbf;
 }
 
 .dark-bg {
@@ -189,6 +186,7 @@ body {
 
 .our-portfolio {
     flex-shrink: 0;
+    background-color: #F4F4FD;
 }
 
 .our-portfolio-title {
@@ -203,6 +201,7 @@ body {
 
 .our-portfolio-list {
     flex-shrink: 0;
+    background-color: #FFFFFF;
 }
 
 .our-portfolio-list-item {
@@ -244,9 +243,6 @@ body {
     display: inline-flex;
     align-items: center;
     flex-shrink: 0;
-}
-
-.web-footer {
     color: #4D5AE5;
     font-size: 18px;
     font-weight: 700;
