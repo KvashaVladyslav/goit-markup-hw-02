@@ -201,7 +201,7 @@ body {
 
 .our-portfolio-list {
     flex-shrink: 0;
-    background-color: #FFFFFF;
+    
 }
 
 .our-portfolio-list-item {
@@ -243,6 +243,7 @@ body {
     display: inline-flex;
     align-items: center;
     flex-shrink: 0;
+    font-family: "Raleway", sans-serif;
     color: #4D5AE5;
     font-size: 18px;
     font-weight: 700;
