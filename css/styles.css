@@ -181,6 +181,18 @@ h3 {
     flex-shrink: 0;
 }
 
+.our-portfolio-title {
+    color: #2E2F42;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
 .our-portfolio-list {
     width: 1128px;
     height: 420px;
@@ -198,6 +210,16 @@ h3 {
     flex-shrink: 0;
     border: 1px solid #E7E9FC;
     background-color: #FFF;
+}
+
+.our-portfolio-list-title {
+    color:#2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;  
 }
 
 .footer {
