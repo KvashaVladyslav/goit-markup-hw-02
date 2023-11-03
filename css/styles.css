@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", "Releway" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -20,7 +20,6 @@ body {
 
 .nav-list-text {
     color: #2E2F42;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -38,7 +37,6 @@ body {
 
 .contacts-link {
     color:#434455;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 21.5;
@@ -57,7 +55,6 @@ body {
 .mainpage-title {
     color:#FFFFFF;
     text-align: center;
-    font-family: "Roboto";
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -82,7 +79,6 @@ body {
 
 .features-list-title {
     color: #2E2F42;
-    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -91,7 +87,6 @@ body {
 
 .features-list-text {
     color: #434455;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -105,7 +100,6 @@ body {
 .our-team-title {
     color: #2E2F42;
     text-align: center;
-    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -120,7 +114,6 @@ body {
 .our-team-list-title {
     color: #2E2F42;
     text-align: center;
-    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -130,7 +123,6 @@ body {
 .our-team-list-text {
     color: #434455;
     text-align: center;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -140,7 +132,6 @@ body {
 .our-portfolio-title {
     color: #2E2F42;
     text-align: center;
-    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -150,7 +141,6 @@ body {
 
 .our-portfolio-list-title {
     color: #2E2F42;
-    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 1.12;
@@ -159,7 +149,6 @@ body {
 
 .our-portfolio-list-text {
     color: #434455;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -176,7 +165,6 @@ body {
 
 .footer-text {
     color: #F4F4FD;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
