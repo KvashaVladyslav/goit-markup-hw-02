@@ -9,8 +9,8 @@ body {
     font-family: "Raleway";
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -23,16 +23,17 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
-.nav-list-text :hover, :focus {
+.nav-list-text :hover, 
+.nav-list-text :focus {
     color: #404bbf;
 }
 
 .address-header {
- font-style: normal;
+    font-style: normal;
 }
 
 .contacts-link {
@@ -40,11 +41,12 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px; 
+    line-height: 21.5;
+    letter-spacing: 0.02em; 
 }
 
-.contacts-link :hover, :focus {
+.contacts-link :hover, 
+.contacts-link :focus {
     color: #404bbf;
 }
 
@@ -58,8 +60,8 @@ body {
     font-family: "Roboto";
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
-    letter-spacing: 1.12px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .button {
@@ -68,8 +70,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 
@@ -83,8 +85,8 @@ body {
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .features-list-text {
@@ -92,8 +94,8 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .light-bg {
@@ -106,13 +108,13 @@ body {
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.72px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
 .our-team-list-items {
- background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .our-team-list-title {
@@ -121,8 +123,8 @@ body {
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .our-team-list-text {
@@ -131,8 +133,8 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio-title {
@@ -141,8 +143,8 @@ body {
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.72px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -151,8 +153,8 @@ body {
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio-list-text {
@@ -160,8 +162,8 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .footer {
@@ -177,6 +179,6 @@ body {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
