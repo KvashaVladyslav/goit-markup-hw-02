@@ -18,7 +18,7 @@ body {
     color: #2E2F42;
 }
 
-.nav-list-text {
+.nav-list-link {
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
@@ -26,8 +26,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.nav-list-text :hover, 
-.nav-list-text :focus {
+.nav-list-link :hover, 
+.nav-list-link :focus {
     color: #404bbf;
 }
 
