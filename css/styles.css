@@ -30,8 +30,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.nav-list-link :hover, 
-.nav-list-link :focus {
+.nav-list-link:hover, 
+.nav-list-link:focus {
     color: #404bbf;
 }
 
@@ -43,12 +43,12 @@ address {
 .contacts-link {
     color:#434455;
     font-size: 16px;
-    line-height: 21.5;
+    line-height: 1.5;
     letter-spacing: 0.02em; 
 }
 
-.contacts-link :hover, 
-.contacts-link :focus {
+.contacts-link:hover, 
+.contacts-link:focus {
     color: #404bbf;
 }
 
@@ -76,8 +76,8 @@ address {
     cursor: pointer;
 }
 
-.button :hover,
-.button :focus  {
+.button:hover,
+.button:focus  {
     background-color: #404bbf;
 }
 
@@ -136,7 +136,7 @@ address {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
